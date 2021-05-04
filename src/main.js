@@ -1,3 +1,4 @@
+
 let config = {
     type: Phaser.AUTO,
     width: 1024 , //Same as background dimensions.
